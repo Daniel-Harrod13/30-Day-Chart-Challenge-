@@ -28,7 +28,7 @@ The circular bar chart presents each region’s forest coverage as a part of the
 
 ## Data Source
 
-The data used in this visualization comes from the **Forest Inventory and Analysis Fiscal Year 2016 Business Report** published by the United States Department of Agriculture. You can find the full report [here](https://www.fs.fed.us/sites/default/files/media/2017/10/FY2016_Forest_Inventory_and_Analysis_Report.pdf).
+The data used in this visualization comes from the **Forest Inventory and Analysis Fiscal Year 2016 Business Report** published by the United States Department of Agriculture. You can find the full report [here](https://www.fs.usda.gov/sites/default/files/fs_media/fs_document/publication-15817-usda-forest-service-fia-annual-report-508.pdf).
 
 ## Instructions for Reproducing the Visualization
 
