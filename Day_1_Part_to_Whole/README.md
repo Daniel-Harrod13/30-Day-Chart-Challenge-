@@ -24,7 +24,7 @@ The goal of this visualization is to display the distribution of forested land a
 
 The circular bar chart presents each region’s forest coverage as a part of the whole, using a natural, forest-like color palette for visual clarity. The regions are arranged in a circular format to provide an easy comparison of forest coverage between regions.
 
-![Forest Coverage in U.S. Regions](./path_to_your_plot_image.png)
+![Forest Coverage in U.S. Regions](Day_1_Part_to_Whole/Forrest_Coverage_in_US_Regions.png)
 
 ## Data Source
 
