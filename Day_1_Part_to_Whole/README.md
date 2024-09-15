@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Author
 
-Data visualization created by **[Your Name]** as part of the 30-Day Chart Challenge.
+Data visualization created by **Daniel Harrod** as part of the 30-Day Chart Challenge.
