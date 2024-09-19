@@ -36,7 +36,8 @@ The visualization employs neon colors against a dark background to create a futu
 
 ## **Visualization**
 
-![Global Trends in Nuclear Energy Production]()
+![Global Trends in Nuclear Energy Production](Day_@/Nuclear_Energy.png)
+
 
 ---
 
